@@ -6,6 +6,9 @@ class BscClient
 {
 
 
-
+    public function index(): void
+    {
+        echo 20;
+    }
 
 }
