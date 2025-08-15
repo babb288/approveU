@@ -6,10 +6,9 @@ class BscClient
 {
 
 
-    public function isndex(): void
+    public function index(): void
     {
 
-        //
     }
 
 }
