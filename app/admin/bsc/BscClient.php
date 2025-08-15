@@ -8,7 +8,8 @@ class BscClient
 
     public function isndex(): void
     {
-        echo 20;
+
+        //
     }
 
 }
