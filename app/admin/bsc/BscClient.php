@@ -8,7 +8,7 @@ class BscClient
 
     public function index(): void
     {
-
+        //asdasds
     }
 
 }
